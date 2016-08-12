@@ -12,6 +12,9 @@ import sys
 
 #todo
 提花挪威Pillow
+
+使用：
+    python img_tool.py png_dir
 '''
 
 
